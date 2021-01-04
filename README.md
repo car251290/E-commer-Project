@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Getting Started E-commer React App
+The App create this is to guve me not only more practice with JS also for an idea of E-commerce
 ## Available Scripts
 
 In the project directory, you can run:

@@ -1,5 +1,5 @@
 # Getting Started E-commer React App
-The App create this is to guve me not only more practice with JS also for an idea of E-commerce
+To show how to build a E-commer application from scratch, at the same time practice with JS.
 
 
 

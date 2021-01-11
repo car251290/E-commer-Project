@@ -1,16 +1,17 @@
 import React from 'react';
-import { Grid } from '@material-ui/core';
+
+import Grid from '@material-ui/core/Grid';
 
 import Product from './Product/Product';
-import useStyles from './styles';
+import useStyles from './Product/styles';
 const products = [
     { id: 1, name: 'Shoes', description: 'Running shoes', price: '$5' },
     { id: 2, name: "MacBook", description: 'Apple macbook', price: '$10' },
 
 ];
-
 const Products = () => {
     const classes = useStyles();
+
     return (
         <main className={classes.content}>
             <div className={classes.toolbar} />

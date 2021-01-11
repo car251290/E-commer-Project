@@ -1,5 +1,5 @@
 import { makeStyles, fade } from '@material-ui/core/styles';
-
+//style of NavBar
 const drawerWidth = 0;
 
 export default makeStyles((theme) => ({

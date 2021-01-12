@@ -7,6 +7,7 @@ To show how to build a E-commer application from scratch, at the same time pract
 Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 
 Reference of the page in the E-commer : 
+Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 https://commercejs.com
 
 ### yarn start

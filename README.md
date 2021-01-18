@@ -1,14 +1,14 @@
 # Getting Started E-commer React App
 To show how to build a E-commer application from scratch, at the same time practice with JS.
 
-
-
 ## Commerce infrastructure for developers
 Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 
 Reference of the page in the E-commer : 
 Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 https://commercejs.com
+
+I will add the fist looks to the App. 
 
 ### yarn start
 

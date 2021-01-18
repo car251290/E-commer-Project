@@ -1,3 +1,7 @@
+
+## I will add the fist looks to the App in the documents and update it how it look
+
+
 # Getting Started E-commer React App
 To show how to build a E-commer application from scratch, at the same time practice with JS.
 
@@ -7,8 +11,6 @@ Design, build, and control your eCommerce using our APIs and dashboard. Experien
 Reference of the page in the E-commer : 
 Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 https://commercejs.com
-
-I will add the fist looks to the App. 
 
 ### yarn start
 

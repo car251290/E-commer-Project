@@ -32,7 +32,9 @@ An idea of the Jamstack architecture and how APIs work
 https://commercejs.com/docs/guides/cart-react
 
 # Language 
+
 React(JS)
+
 JavaScript
 
 # Requirements

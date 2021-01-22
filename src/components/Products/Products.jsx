@@ -14,14 +14,15 @@ const Products = () => {
     const classes = useStyles();
 
     return (
-
-        <Grid container justify="center" spacing={4}>
-            {products.map((product) => (
-                <Grid key={product.id} item xs={12} sm={6} md={4} lg={3}>
-                    <Product product={product} />
-                </Grid>
-            ))}
-        </Grid>
+        <main className={classes.content}>
+            <Grid container justify="center" spacing={4}>
+                {products.map((product) => (
+                    <Grid key={product.id} item xs={12} sm={6} md={4} lg={3}>
+                        <Product product={product} />
+                    </Grid>
+                ))}
+            </Grid>
+        </main>
 
     );
 };

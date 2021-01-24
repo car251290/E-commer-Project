@@ -5,23 +5,19 @@ import Grid from '@material-ui/core/Grid';
 import Product from './Product/Product';
 import useStyles from './Product/styles';
 
-const products = [
-    { id: 1, name: 'Shoes', description: 'Running shoes', price: '$5' },
-    { id: 2, name: "MacBook", description: 'Apple macbook', price: '$10' },
-
-];
-const Products = () => {
+const Products = ({ products }) => {
     const classes = useStyles();
 
     return (
-
-        <Grid container justify="center" spacing={4}>
-            {products.map((product) => (
-                <Grid key={product.id} item xs={12} sm={6} md={4} lg={3}>
-                    <Product product={product} />
-                </Grid>
-            ))}
-        </Grid>
+        <main className={classes.content}>
+            <Grid container justify="center" spacing={4}>
+                {products.map((product) => (
+                    <Grid key={product.id} item xs={12} sm={6} md={4} lg={3}>
+                        <Product product={product} />
+                    </Grid>
+                ))}
+            </Grid>
+        </main>
 
     );
 };

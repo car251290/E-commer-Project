@@ -33,9 +33,9 @@ https://commercejs.com/docs/guides/cart-react
 
 # Language 
 
-React(JS)
+Framework: React(JS)
 
-JavaScript
+Language: JavaScript
 
 # Requirements
 * Visual Studio

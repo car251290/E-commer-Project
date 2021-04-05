@@ -8,14 +8,9 @@ To show how to build a E-commer application from scratch, at the same time pract
 ## Commerce infrastructure for developers
 Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 
-Reference of the page in the E-commer : 
+## Reference of the page in the E-commer : 
 Design, build, and control your eCommerce using our APIs and dashboard. Experience control meets integration flexibility.
 https://commercejs.com
-
-### yarn start
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Material UI for the style of this APP
 

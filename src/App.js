@@ -15,7 +15,7 @@ const App = () => {
     }
 
 //Hooks option to use the effect of the fect data 
-    useEffect(()=>{
+    useEffect( () => {
         fetchProduct();
 
     },[]);

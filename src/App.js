@@ -6,9 +6,7 @@ const App = () => {
     const [products,setProducts] = useState([]);
 
     const fetchProduct = async () => {
-
         //how you ansync the class commerce to display the products
-
         const {data} = await commerce.products.list()
         //asking the dat responce
         setProducts(data)

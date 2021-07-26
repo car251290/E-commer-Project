@@ -26,7 +26,6 @@ An idea of the Jamstack architecture and how APIs work
 # Resorse about the reach how to make the Ecommer application
 https://commercejs.com/docs/guides/cart-react
 
-### Language 
 
 ## Framework: React(JS)
 

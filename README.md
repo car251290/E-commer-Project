@@ -1,7 +1,4 @@
 
-## I will add the fist looks to the App in the documents and update it how it look
-
-
 # Getting Started E-commer React App
 To show how to build a E-commer application from scratch, at the same time practice with JS.
 

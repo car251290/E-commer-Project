@@ -18,7 +18,7 @@ const App = () => {
 
     },[]);
 
-    //console.log(products);
+ 
     console.log(products);
     return (
         <div>

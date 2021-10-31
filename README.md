@@ -19,12 +19,10 @@ This project assumes you have some knowledge of the below concepts before starti
 # Resorse about the reach how to make the Ecommer application
 https://commercejs.com/docs/guides/cart-react
 
-
-## Framework: React(JS)
-
 ## Language: 
 ### JavaScript
 ### HTML & CSS
+## React(JS)
 
 # Requirements
 * Visual Studio

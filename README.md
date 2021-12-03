@@ -23,6 +23,7 @@ https://commercejs.com/docs/guides/cart-react
 ### JavaScript
 ### HTML & CSS
 ## React(JS)
+## UI/UX
 
 # Requirements
 * Visual Studio
